@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&family=Poppins&display=swap");
+
+body {
+  font-family: "Lato", sans-serif;
+  background-color: #cac3c3;
+  overflow: hidden;
+}
+
+.bg-red {
+  background-color: #f7656a;
+  color: #fff;
+}
+
+.scroll {
+  height: 100%;
+  overflow: auto;
+}
+
+.curser {
+  cursor: pointer;
+}
+
+.active {
+  color: yellow;
+}
